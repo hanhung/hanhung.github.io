@@ -24,7 +24,7 @@ github_username:  hanhung
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I am Han-Hung Lee and I'm a student that recently graduated from NTHU with a B.S. degree in the Undergraduate Program of Electrical Engineering and Computer Science. A few of my research interests include <mark>Computer Vision</mark> and <mark>Reinforcement Learning</mark>.
+  Hello, I am Han-Hung Lee and I'm a student that recently graduated from NTHU with a B.S. degree in the Undergraduate Program of Electrical Engineering and Computer Science. A few of my research interests include <mark>3D Point Cloud/Voxel</mark>, <mark>Reinforcement Learning</mark> and <mark>Games</mark>.
 
 # Projects Section
 # projects_title: Projects
