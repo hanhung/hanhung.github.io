@@ -36,13 +36,9 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
-# more_content: | # this will include new lines to allow paragraphs
-#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#    - Rock climbing
-#    - Gaming
-#    - Knitting
-#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+more_title: Resume Template
+more_content: | # this will include new lines to allow paragraphs
+  The template used to make this page can be found here: https://github.com/sproogen/modern-resume-theme
 
 # Footer
 footer_show_references: true
