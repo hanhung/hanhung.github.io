@@ -34,4 +34,4 @@ layout: left
   description: | # this will include new lines to allow paragraphs
     - Implemented graph-based transductive inference method to recommend songs given 1 bit feedback (like or dislike)
     - Achieved 89.9% and 48.8% precision on seen and unseen song genres respectively
-    - Won 3rd place among 27 teams for the final project
+    - Won 3rd place among 27 teams for the final project (Introduction to Multimedia Course)
