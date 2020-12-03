@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Resume Template
 more_content: | # this will include new lines to allow paragraphs
-  The template used to make this page can be found here: https://github.com/sproogen/modern-resume-theme
+  The template used to make this page can be found here: [link](https://github.com/sproogen/modern-resume-theme)
 
 # Footer
 footer_show_references: true
