@@ -13,7 +13,7 @@
     - Devised novel method using Graph Neural Networks with 3D instance segmentation model to improve results
     - Achieved SOTA results on ScanRefer and ReferIt3D datasets
     - Accepted to AAAI 2021
-- layout: top-middle
+- layout: left
   link: https://hanhung.github.io/Creating-Audio-Reactive-Visuals-With-StyleGAN/
   name: Stylizing Audio Reactive Visuals 
   description: | # this will include new lines to allow paragraphs
