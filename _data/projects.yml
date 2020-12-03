@@ -7,8 +7,16 @@
 #   description: | # this will include new lines to allow paragraphs
 #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 - layout: top-middle
-  name: Graph Neural Networks for 3D Referring Instance Segmentation |
+  name: Graph Neural Networks for 3D Referring Instance Segmentation
   description: | # this will include new lines to allow paragraphs
     - Surveyed recent methods on referring instance segmentation and 3D instance segmentation methods
     - Devised novel method using Graph Neural Networks with 3D instance segmentation model to improve results
     - Achieved SOTA results on ScanRefer and ReferIt3D datasets
+    - Accepted to AAAI 2021
+- layout: top-middle
+  link: https://hanhung.github.io/Creating-Audio-Reactive-Visuals-With-StyleGAN/
+  name: Stylizing Audio Reactive Visuals 
+  description: | # this will include new lines to allow paragraphs
+    - Led a 2-person team to create audio reactive visuals using GANs for artistic purposes
+    - Mapping frequency changes in songs to traverse the latent space of GANs, forming video clips that react to audio
+    - Presented at NeurIPS 2019 Workshop on Machine Learning for Creativity and Design
