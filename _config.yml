@@ -80,6 +80,25 @@ content:
           - Devised novel method using Graph Neural Networks with 3D instance segmentation model to improve results
           - Achieved SOTA results on ScanRefer and ReferIt3D datasets
           - Accepted to AAAI 2021
+    content:
+      - layout: left
+        title: Stylizing Audio Reactive Visuals
+        sub_title: Team Leader
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Led a 2-person team to create audio reactive visuals using GANs for artistic purposes
+          - Mapping frequency changes in songs to traverse the latent space of GANs, forming video clips that react to audio
+          - Presented at NeurIPS 2019 Workshop on Machine Learning for Creativity and Design
   - title: Experience
     layout: list
     content:
