@@ -26,6 +26,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am Han-Hung Lee and I'm a student that recently graduated from NTHU with a B.S. degree in the Undergraduate Program of Electrical Engineering and Computer Science. A few of my research interests include <mark>3D Point Cloud/Voxel</mark>, <mark>Reinforcement Learning</mark> and <mark>Games</mark>.
 
+more_title: Publications
+more_content: | # this will include new lines to allow paragraphs
+  - Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen, “Stylizing Audio Reactive Visuals,” NeurIPS 2019 Workshopon Machine Learning for Creativity and Design, December 14th, 2019, Vancouver, Canada.
+  - Pin-Hao Huang*,Han-Hung Lee*, Hwann-Tzong Chen and Tyng-Luh Liu.  “Text-guided Graph Neural Networksfor Referring 3D Instance Segmentation.” AAAI (2021).
+
 # Projects Section
 # projects_title: Projects
 
