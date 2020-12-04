@@ -58,6 +58,11 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      description: |
+        here
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
