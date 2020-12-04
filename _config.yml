@@ -62,7 +62,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: middle
-        title: Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen, “Stylizing Audio Reactive Visuals,” NeurIPS 2019 Workshopon Machine Learning for Creativity and Design, December 14th, 2019, Vancouver, Canada.
+        title: NeurIPS 2019 Workshop on Machine Learning for Creativity and Design, December 14th, 2019, Vancouver, Canada.
+        sub_title: Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen, “Stylizing Audio Reactive Visuals”
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
