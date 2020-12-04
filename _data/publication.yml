@@ -1,0 +1,17 @@
+- layout: left
+  company: Institute of Information Science, Academia Sinica
+  job_title: Undergraduate Research Assistant
+  dates: July 2019 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Implemented baseline models for neural architecture search methods
+
+    - Proposed novel method for 3D referring instance segmentation achieving SOTA results on ScanRefer and ReferIt3D
+    company: Institute of Information Science, Academia Sinica
+- layout: left
+  company: NTHU Street Music Club
+  job_title: Club President and DJ
+  dates: July 2017 - Sept. 2018
+  description: | # this will include new lines to allow paragraphs
+    - Organized club activities such as end-of-semester parties and lectures from local DJs
+
+    - Performed as a DJ for end-of-semester parties and events such as Christmas prom for our department
