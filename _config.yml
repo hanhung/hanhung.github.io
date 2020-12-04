@@ -77,7 +77,7 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           - Surveyed recent methods on referring instance segmentation and 3D instance segmentation methods
-          - Devised novel method using Graph Neural Networks with 3D instance segmentation model to improve results
+          - Using Text-guided Graph Neural Networks with 3D instance segmentation model to improve results
           - Achieved SOTA results on ScanRefer and ReferIt3D datasets
           - Accepted to AAAI 2021
 
