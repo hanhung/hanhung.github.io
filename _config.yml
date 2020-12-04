@@ -66,6 +66,10 @@ content:
         sub_title: Team Member
         link: hanhung.github.io
         link_text: Project Page Coming Soon
+        additional_links:
+          - title:  Project Page Coming Soon
+            icon: fab fa-github
+            url: hanhung.github.io
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
