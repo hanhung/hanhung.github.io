@@ -139,13 +139,12 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: National Tsing Hua University
+        sub_title: B.S. in Undergraduate Program of Electrical Engineering and Computer Science
+        caption: Sept. 2016 - June 2020
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - Overall GPA: 3.87/4.3
+          - Coursework: Deep Learning, Statistical Learning, Computer Vision, Graphics Programming Game Programming
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
