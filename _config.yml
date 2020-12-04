@@ -63,7 +63,7 @@ content:
     content: |
       - Pin-Hao Huang\*,Han-Hung Lee\*, Hwann-Tzong Chen and Tyng-Luh Liu.  “Text-guided Graph Neural Networksfor Referring 3D Instance Segmentation.” AAAI (2021).
 
-      <span font-size:4em;">\* Equal Contribution</span>
+      <span style="font-family:Papyrus; font-size:4em;">\* Equal Contribution</span>
       - Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen, “Stylizing Audio Reactive Visuals,” NeurIPS 2019 Workshop on Machine Learning for Creativity and Design, December 14th, 2019, Vancouver, Canada.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
