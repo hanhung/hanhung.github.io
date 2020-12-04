@@ -121,14 +121,14 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title: Institute of Information Science, Academia Sinica
         sub_title: Undergraduate Research Assistant
         caption: July 2019 - Present
         description: | # this will include new lines to allow paragraphs
           - Implemented baseline models for neural architecture search methods
           - Worked on novel method for 3D referring instance segmentation achieving SOTA results on ScanRefer and ReferIt3D
-      - layout: right
+      - layout: top-right
         title: NTHU Street Music Club
         sub_title: Club President and DJ
         caption: July 2017 - Sept. 2018
