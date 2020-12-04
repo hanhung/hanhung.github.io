@@ -64,8 +64,8 @@ content:
       - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
         sub_title: Team Member
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
+        link: hanhung.github.io
+        link_text: Project Page Coming Soon
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
