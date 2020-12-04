@@ -122,14 +122,12 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Institute of Information Science, Academia Sinica
+        sub_title: Undergraduate Research Assistant
+        caption: July 2019 - Present
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Implemented baseline models for neural architecture search methods
+          - Worked on novel method for 3D referring instance segmentation achieving SOTA results on ScanRefer and ReferIt3D
   - title: Education
     layout: list
     content:
