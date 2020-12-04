@@ -80,7 +80,8 @@ content:
           - Devised novel method using Graph Neural Networks with 3D instance segmentation model to improve results
           - Achieved SOTA results on ScanRefer and ReferIt3D datasets
           - Accepted to AAAI 2021
-          - ![Error displaying image](/images/fig1.jpg "Example")
+
+          ![Error displaying image](/images/fig1.jpg "Example")
       - layout: left
         title: Stylizing Audio Reactive Visuals
         sub_title: Team Leader
