@@ -83,10 +83,10 @@ content:
       - layout: left
         title: Stylizing Audio Reactive Visuals
         sub_title: Team Leader
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
+        link: https://hanhung.github.io/Creating-Audio-Reactive-Visuals-With-StyleGAN/
+        link_text: Project Page
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Stylizing Audio Reactive Visuals Project Page
             icon: fab fa-github
             url: https://hanhung.github.io/Creating-Audio-Reactive-Visuals-With-StyleGAN/
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
