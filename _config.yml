@@ -128,6 +128,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Implemented baseline models for neural architecture search methods
           - Worked on novel method for 3D referring instance segmentation achieving SOTA results on ScanRefer and ReferIt3D
+      - layout: right
+        title: NTHU Street Music Club
+        sub_title: Club President and DJ
+        caption: July 2017 - Sept. 2018
+        description: | # this will include new lines to allow paragraphs
+          - Organized club activities such as end-of-semester parties and lectures from local DJs
+          - Performed as a DJ for end-of-semester parties and events such as Christmas prom for our department
   - title: Education
     layout: list
     content:
