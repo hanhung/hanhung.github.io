@@ -72,12 +72,12 @@ content:
       - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
         sub_title: Team Member
-        link: hanhung.github.io
-        link_text: Project Page Coming Soon
+        link: https://github.com/hanhung/TGNN
+        link_text: Project Page
         additional_links:
-          - title:  Project Page Coming Soon
+          - title:  TGNN Project Page
             icon: fab fa-github
-            url: hanhung.github.io
+            url: https://github.com/hanhung/TGNN
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
