@@ -48,7 +48,7 @@ github_username:  hanhung
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I am Han-Hung Lee and I'm a student that recently graduated from NTHU with a B.S. degree in the Undergraduate Program of Electrical Engineering and Computer Science. A few of my research interests include <mark>3D Computer Vision</mark>, <mark>Reinforcement Learning</mark> and <mark>Games</mark>.
+  Hello, I am Han-Hung Lee and I received my B.S. degree in the Undergraduate Program of Electrical Engineering and Computer Science from NTHU. Currently I am a PhD student at Simon Fraser University under the supervision of professor Angel Xuan Chang. A few of my research interests include <mark>3D Computer Vision</mark>, <mark>Reinforcement Learning</mark> and <mark>Reinforcement Learning</mark>.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
