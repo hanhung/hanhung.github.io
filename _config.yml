@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Han-Hung Lee
-title: B.S. in Undergraduate Program of Electrical Engineering and Computer Science
+title: PhD Student at Simon Fraser University
 email: rexleeppp@gmail.com
 website: https://hanhung.github.io/
 
@@ -113,6 +113,22 @@ content:
           - Mapping frequency changes in songs to traverse the latent space of GANs, forming video clips that react to audio
           - Presented at NeurIPS 2019 Workshop on Machine Learning for Creativity and Design
           <iframe width="768" height="768" src="https://www.youtube.com/embed/xQwqnBRirwI">
+  - title: Education
+    layout: list
+    content:
+      - layout: top-left
+        title: Simon Fraser University
+        sub_title: PhD Program in Computing Science
+        caption: Sept. 2021 - Now
+        description: | # this will include new lines to allow paragraphs
+          - Supervisor: Angel Xuan Chang(https://angelxuanchang.github.io/)
+      - layout: top-left
+        title: National Tsing Hua University
+        sub_title: B.S. in Undergraduate Program of Electrical Engineering and Computer Science
+        caption: Sept. 2016 - June 2020
+        description: | # this will include new lines to allow paragraphs
+          - Overall GPA: 3.87/4.3
+          - Coursework: Deep Learning, Statistical Learning, Computer Vision, Graphics Programming Game Programming
   - title: Experience
     layout: list
     content:
@@ -123,16 +139,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Implemented baseline models for neural architecture search methods
           - Worked on novel method for 3D referring instance segmentation achieving SOTA results on ScanRefer and ReferIt3D
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: National Tsing Hua University
-        sub_title: B.S. in Undergraduate Program of Electrical Engineering and Computer Science
-        caption: Sept. 2016 - June 2020
-        description: | # this will include new lines to allow paragraphs
-          - Overall GPA: 3.87/4.3
-          - Coursework: Deep Learning, Statistical Learning, Computer Vision, Graphics Programming Game Programming
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
