@@ -58,14 +58,6 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      <span style="font-size:1.2em;">Pin-Hao Huang\*,Han-Hung Lee\*, Hwann-Tzong Chen and Tyng-Luh Liu.  “Text-guided Graph Neural Networksfor Referring 3D Instance Segmentation.” AAAI (2021).</span>
-
-      <span style="font-size:1em;"><em>\* Equal Contribution</em></span>
-      
-      <span style="font-size:1.2em;">Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen, “Stylizing Audio Reactive Visuals,” NeurIPS 2019 Workshop on Machine Learning for Creativity and Design, December 14th, 2019, Vancouver, Canada.</span>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -93,6 +85,7 @@ content:
           ![Error displaying image](/images/PureCLIPNeRF.png "Example")
       - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
+        sub_title: Pin-Hao Huang\*, Han-Hung Lee\*, Hwann-Tzong Chen, Tyng-Luh Liu
         link: https://github.com/hanhung/TGNN
         link_text: Project Page
         additional_links:
@@ -109,13 +102,13 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - Pin-Hao Huang\*, **Han-Hung Lee\***, Hwann-Tzong Chen, Tyng-Luh Liu
           - We use Text-guided Graph Neural Networks with a 3D instance segmentation model to improve the referring instance segmentation task.
           - Accepted to AAAI 2021
 
           ![Error displaying image](/images/fig1.jpg "Example")
       - layout: left
         title: Stylizing Audio Reactive Visuals
+        sub_title: Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen
         link: https://hanhung.github.io/Creating-Audio-Reactive-Visuals-With-StyleGAN/
         link_text: Project Page
         additional_links:
@@ -128,7 +121,6 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - **Han-Hung Lee**, Da-Gin Wu, and Hwann-Tzong Chen
           - We use frequency changes in songs to traverse the latent space of GANs, forming video clips that react to audio to create audio reactive visuals for artistic purposes.
           - Accepted to NeurIPS 2019 Workshop on Machine Learning for Creativity and Design
           <iframe width="768" height="768" src="https://www.youtube.com/embed/xQwqnBRirwI">
