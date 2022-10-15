@@ -70,6 +70,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models
+        sub_title: Team Leader
+        link: https://hanhung.github.io/PureCLIPNeRF/
+        link_text: Project Page
+        additional_links:
+          - title:  TGNN Project Page
+            icon: fab fa-github
+            url: https://github.com/hanhung/PureCLIPNeRF
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Text to 3D generation using pure CLIP guidance
+          - Explored different mechanics to prevent adversarial generations
+
+          ![Error displaying image](/images/PureCLIPNeRF.jpg "Example")
+      - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
         sub_title: Team Member
         link: https://github.com/hanhung/TGNN
