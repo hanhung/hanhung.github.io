@@ -71,7 +71,6 @@ content:
     content:
       - layout: left
         title: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models
-        sub_title: Team Leader
         link: https://hanhung.github.io/PureCLIPNeRF/
         link_text: Project Page
         additional_links:
@@ -88,13 +87,12 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - Text to 3D generation using pure CLIP guidance
-          - Explored different mechanics to prevent adversarial generations
+          - **Han-Hung Lee** and Angel X. Chang
+          - We explore how image augmentations and explicit/implicit voxel grid NeRF models effect pure CLIP guidance.
 
           ![Error displaying image](/images/PureCLIPNeRF.png "Example")
       - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
-        sub_title: Team Member
         link: https://github.com/hanhung/TGNN
         link_text: Project Page
         additional_links:
@@ -111,15 +109,13 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - Surveyed recent methods on referring instance segmentation and 3D instance segmentation methods
-          - Using Text-guided Graph Neural Networks with 3D instance segmentation model to improve results
-          - Achieved SOTA results on ScanRefer and ReferIt3D datasets
+          - Pin-Hao Huang\*, **Han-Hung Lee\***, Hwann-Tzong Chen, Tyng-Luh Liu
+          - We use Text-guided Graph Neural Networks with a 3D instance segmentation model to improve the referring instance segmentation task.
           - Accepted to AAAI 2021
 
           ![Error displaying image](/images/fig1.jpg "Example")
       - layout: left
         title: Stylizing Audio Reactive Visuals
-        sub_title: Team Leader
         link: https://hanhung.github.io/Creating-Audio-Reactive-Visuals-With-StyleGAN/
         link_text: Project Page
         additional_links:
@@ -132,9 +128,9 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - Led a 2-person team to create audio reactive visuals using GANs for artistic purposes
-          - Mapping frequency changes in songs to traverse the latent space of GANs, forming video clips that react to audio
-          - Presented at NeurIPS 2019 Workshop on Machine Learning for Creativity and Design
+          - **Han-Hung Lee**, Da-Gin Wu, and Hwann-Tzong Chen
+          - We use frequency changes in songs to traverse the latent space of GANs, forming video clips that react to audio to create audio reactive visuals for artistic purposes.
+          - Accepted to NeurIPS 2019 Workshop on Machine Learning for Creativity and Design
           <iframe width="768" height="768" src="https://www.youtube.com/embed/xQwqnBRirwI">
   - title: Education
     layout: list
