@@ -85,7 +85,7 @@ content:
           ![Error displaying image](/images/PureCLIPNeRF.png "Example")
       - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
-        sub_title: Pin-Hao Huang\*, Han-Hung Lee\*, Hwann-Tzong Chen, Tyng-Luh Liu
+        sub_title: Pin-Hao Huang*, Han-Hung Lee*, Hwann-Tzong Chen, Tyng-Luh Liu
         link: https://github.com/hanhung/TGNN
         link_text: Project Page
         additional_links:
