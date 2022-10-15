@@ -91,7 +91,7 @@ content:
           - Text to 3D generation using pure CLIP guidance
           - Explored different mechanics to prevent adversarial generations
 
-          ![Error displaying image](/images/PureCLIPNeRF.jpg "Example")
+          ![Error displaying image](/images/PureCLIPNeRF.png "Example")
       - layout: left
         title: Graph Neural Networks for 3D Referring Instance Segmentation (IIS Sinica)
         sub_title: Team Member
