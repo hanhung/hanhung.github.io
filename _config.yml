@@ -71,6 +71,7 @@ content:
     content:
       - layout: left
         title: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models
+        sub_title: **Han-Hung Lee** and Angel X. Chang
         link: https://hanhung.github.io/PureCLIPNeRF/
         link_text: Project Page
         additional_links:
@@ -87,7 +88,6 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - **Han-Hung Lee** and Angel X. Chang
           - We explore how image augmentations and explicit/implicit voxel grid NeRF models effect pure CLIP guidance.
 
           ![Error displaying image](/images/PureCLIPNeRF.png "Example")
