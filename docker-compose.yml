@@ -1,12 +1,13 @@
-version: '3'
-
+version: "3"
+# this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: jekyll/jekyll
-    container_name: modern-resume-theme
-    command: jekyll serve --watch --force_polling --verbose
+    image: amirpourmand/al-folio:latest
+    build: .
     ports:
-      - 4000:4000
+      - 8080:8080
       - 35729:35729
     volumes:
-      - ./:/srv/jekyll
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
